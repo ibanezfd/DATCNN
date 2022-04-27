@@ -14,7 +14,7 @@ This repository contains the codes for the JSTARS paper: [DAT-CNN: Dual Attentio
 
 `./codes/main.m` is the main script.
 
-The complete dataset and information of every coupled Sentinel-2/Sentinel-3 pair used in the experimentation can be found in: https://drive.google.com/drive/folders/1JF0iMUlsQhs8ax_NXamIbmLft-33-WNM?usp=sharing
+The complete dataset and information of every coupled Sentinel-2/Sentinel-3 pair used in the experimentation can be found in: https://bit.ly/3Kkxp2F
 
 ## Citation
 
